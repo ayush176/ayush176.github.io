@@ -517,6 +517,10 @@ progress{
     #services{
         padding: 100px 20px;
     }
+    
+    #services .section-info h1{
+        font-size: 40px;
+    }
 
     .services-box{
         flex-basis: 100%;
